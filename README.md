@@ -15,7 +15,7 @@ you’ll be allowed to use in all your other projects.
   <img alt="make" src="https://user-images.githubusercontent.com/45235527/104592712-eac36f80-566e-11eb-8713-aae03bff77c3.gif" />
 </p>
 
-# Regles
+# Rules
 
 ```
 make (re, clean, fclean, bonus)
@@ -61,7 +61,7 @@ You must also re-code the following functions, using the function “malloc” :
 - `strdup`
 
 
-# II.3 Part 2 - Fonctions supplémentaires
+# II.3 Part 2 -  Additional functions
 
 In this second part, you must code a set of functions that are either not included in the
 libc, or included in a different form. Some of these functions can be useful to write Part
@@ -79,7 +79,7 @@ libc, or included in a different form. Some of these functions can be useful to 
 - `ft_putnbr_fd`
 
 
-# Partie bonus
+# Bonus part
 
 If you successfully completed the mandatory part, you’ll enjoy taking it further. You can
 see this last section as Bonus Points.
